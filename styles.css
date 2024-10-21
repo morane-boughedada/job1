@@ -1,0 +1,42 @@
+h1 { 
+    
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-decoration: underline;
+    
+}
+p{
+    margin-bottom: -15px;
+}
+
+.perso {
+    
+    text-align: left; 
+    border-bottom-style: solid;
+
+}
+.expérience  {
+    text-align: center ;
+}
+
+.experience_div {
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+.objectif {
+    
+    text-align: center; 
+
+}
+.competence{
+    text-align: left;
+    background:red;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
